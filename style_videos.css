@@ -75,4 +75,6 @@ table, td, th
     align-items: center;
     text-align: center;
     min-height: 100vh;
+    position: relative;
+    padding-top: 56.25%;
 }
