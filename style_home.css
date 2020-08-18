@@ -86,3 +86,25 @@ table, td, th
     margin-right: auto;
     width: 30%
 }
+
+.external
+{
+display: table;
+position: absolute;
+top: 0;
+left: 0;
+height: 100%;
+width: 100%;
+}
+
+.middle
+{
+display: table-cell;
+vertical-align: middle;
+}
+
+.internal
+{
+margin-left: 25px;
+width: 50px;
+}
