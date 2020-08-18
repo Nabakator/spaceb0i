@@ -95,16 +95,19 @@ top: 0;
 left: 0;
 height: 100%;
 width: 100%;
+background-color: red;
 }
 
 .middle
 {
 display: table-cell;
 vertical-align: middle;
+background-color: blue;
 }
 
 .internal
 {
 margin-left: 25px;
 width: 50px;
+background-color: white;
 }
